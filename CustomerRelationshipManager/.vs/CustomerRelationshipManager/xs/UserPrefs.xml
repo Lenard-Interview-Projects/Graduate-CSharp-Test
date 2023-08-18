@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{16DADDAE-0C09-4C70-BCDF-8F2CFFAB3140}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CustomerRelationshipManager PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomerRelationshipManager/gui/MainMenu.cs">
+    <Files>
+      <File FileName="CustomerRelationshipManager/gui/MainMenu.cs" Line="33" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CustomerRelationshipManager" expanded="True">
+            <Node name="CustomerRelationshipManager" expanded="True">
+              <Node name="gui" expanded="True">
+                <Node name="MainMenu.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
